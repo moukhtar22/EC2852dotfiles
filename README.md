@@ -58,5 +58,3 @@ Minimalistic alpine/sway
         <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=EC2854/dotfiles&type=Date" />
     </picture>
 </a>
-
-> Made with <3 by [Ewa (EC2854)](https://github.com/EC2854)
